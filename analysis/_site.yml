@@ -3,14 +3,17 @@ output_dir: "../docs"
 navbar:
   title: "Ensamblaje"
   left:
-    - text: "Home"
+    - text: "Casa"
       href: index.html
+      icon: fa-home
     - text: "Origen de datos"
       href: 10.html
-    - text: "About"
+    - text: "Acerca de"
       href: about.html
-    - text: "License"
+      icon: fa-info
+    - text: "Licencia"
       href: license.html
+      icon: fa-copyright
   right:
     - icon: fa-github
       href: https://github.com/Mabelvac/Ensamblaje
