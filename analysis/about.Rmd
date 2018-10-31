@@ -1,8 +1,8 @@
 ---
-title: "About"
+title: "Acerca de"
 output:
   workflowr::wflow_html:
     toc: false
 ---
 
-Describe your project.
+Describe tu proyecto.
