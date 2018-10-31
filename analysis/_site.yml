@@ -10,6 +10,7 @@ navbar:
       href: 10.html
     - text: "M y M"
       href: 30.html
+      icon: fa-calculator
     - text: "Acerca de"
       href: about.html
       icon: fa-info
